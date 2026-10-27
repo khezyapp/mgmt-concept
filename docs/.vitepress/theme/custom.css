@@ -1,0 +1,18 @@
+:root {
+  --vp-layout-max-width: 1440px;
+}
+
+@media (min-width: 1440px) {
+  .VPDoc.has-aside .content-container {
+    max-width: 900px !important;
+  }
+}
+
+.vp-doc table {
+  font-size: 13px;
+}
+
+.vp-doc th,
+.vp-doc td {
+  padding: 8px;
+}

@@ -1,0 +1,8 @@
+services:
+  docs:
+    build: .
+    image: mgmt-concept-docs
+    container_name: mgmt-concept-docs
+    ports:
+      - "3300:80"
+    restart: unless-stopped
