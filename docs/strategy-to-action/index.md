@@ -3,8 +3,9 @@
 Reference docs for reading high-level strategy/policy documents and turning them into
 owned, funded, measurable work — without waiting for someone to assign it.
 
-Context: Senior Development role at SME-CU (SME co-financing / credit guarantee),
-software engineering background, former auditor at EDC.
+Context: Senior Development role at SME-CU — the Small and Medium Enterprise
+Coordinator Unit, a coordination body — with a software engineering background and
+prior audit experience at EDC.
 
 ---
 

@@ -1,11 +1,11 @@
-# 07 — Worked Example: SME-CU Co-Financing Platform
+# 07 — Worked Example: MSME Co-Financing Platform at SME-CU
 
 A complete run from a real line in the National Strategy to tasks, a proposal, and audit
 evidence. Use it as a pattern, not as an official design.
 
-**Scenario:** You are a Senior Development officer at SME-CU (co-financing / credit
-guarantee context), with a software engineering background. The unit has no assigned
-project yet. You decide to propose one from the strategy's action matrix.
+**Scenario:** You are a Senior Development officer at SME-CU (Small and Medium
+Enterprise Coordinator Unit), with a software engineering background. The unit has no
+assigned project yet. You decide to propose one from the strategy's action matrix.
 
 **Illustrative content:** The policy, standard, procedure, KPIs, architecture, task IDs,
 and figures below are examples. Only the strategy quotes, section numbers, pages, and
@@ -28,9 +28,11 @@ named responsible entities come from the source. Anything marked `[VERIFY]`,
 | Implementation rule | Each key action needs a specific action plan, measurable results, and estimated budget (§4.2, p. 26) |
 | Our status | SME-CU is **not named**; implementation would be under MEF delegation `[ASSUMPTION]` / `[VERIFY]` |
 
-Why this action: it is the closest match to a co-financing/credit guarantee unit, it has
-a 2026–2030 window, and it explicitly invites private-sector participation — which
-implies integration, data sharing, and a digital workflow.
+Why this action: SME-CU coordinates MSME development work rather than lending itself, so
+the closest fit is an action that depends on cross-ministry and private-sector
+coordination — here, access to finance. It has a 2026–2030 window, and it explicitly
+invites private-sector participation, which implies integration, data sharing, and a
+digital workflow.
 
 ---
 
@@ -157,8 +159,8 @@ sample clauses, not official texts.
 
 `POL-SMECU-001 — Data Protection and Credit Decision Audit Policy`
 
-- **P-1 Scope:** all co-financing and guarantee applications processed by SME-CU,
-  including partner-bank channels.
+- **P-1 Scope:** all co-financing and guarantee applications recorded in the SME-CU
+  coordination platform `[DESIGN]`, including partner-bank channels.
 - **P-2 Explainability:** every automated or semi-automated decision MUST record the
   rule set version and reason codes; a decision without a recorded basis is invalid.
 - **P-3 Data minimization:** collect only data required for eligibility, assessment,

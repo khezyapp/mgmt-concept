@@ -129,6 +129,7 @@ is an output. "Reduced decision time from 10 days to 2" is an outcome.
 | **Co-financing** | Pooling funds from multiple sources (public, private, donors) for a shared financing purpose. |
 | **Credit guarantee** | A promise to repay part of a loan if the borrower defaults, reducing lender risk. |
 | **M&E framework** | The indicators, data sources, responsibilities, and calendar for monitoring and evaluation. |
+| **SME-CU** | Small and Medium Enterprise Coordinator Unit: a Cambodian coordination body for MSME development. A coordinator, not a lender or credit-guarantee operator. |
 
 ---
 

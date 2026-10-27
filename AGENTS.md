@@ -59,6 +59,8 @@ If the user has not chosen a shape, ask. Do not default to an essay.
   looser.
 - **Do not blur terms**: strategy vs plan, policy vs standard vs guideline, output vs
   outcome, KPI vs target.
+- **SME-CU is the Small and Medium Enterprise Coordinator Unit** — a coordination body.
+  Never describe it as a co-financing, lending, or credit-guarantee operator.
 - **Mark illustrative content** as illustrative and replace placeholders before real use.
 
 ## Writing conventions
